@@ -7,7 +7,8 @@ searchBookByTitle
 
 borrowBook
 
-Фотографија од control flow graph-от за borrowBook
+<img width="339" height="962" alt="borrow drawio" src="https://github.com/user-attachments/assets/fd5084bd-7e74-4a38-9cd9-0c90f864a48d" />
+
 
 ****ЦИКЛОМАТСКА КОМПЛЕКСНОСТ****
 *searchBookByTitle
